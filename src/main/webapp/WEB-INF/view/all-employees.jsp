@@ -17,7 +17,7 @@
             <th>Salary</th>
         </tr>
 
-        <c:forEach var="emp" items="${allEmps}">
+    <c:forEach var="emp" items="${allEmps}">
             <tr>
 <%--        новая строка для каждого работника из нашего списка        --%>
                 <td>${emp.name}</td>

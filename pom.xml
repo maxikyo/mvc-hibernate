@@ -41,12 +41,13 @@
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+    <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>6.1.2.Final</version>
-      <type>pom</type>
+      <version>5.4.22.Final</version>
     </dependency>
+
 
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <dependency>
@@ -66,7 +67,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-orm</artifactId>
-      <version>5.3.22</version>
+      <version>5.2.9.RELEASE</version>
     </dependency>
 
 
